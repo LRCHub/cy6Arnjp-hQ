@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Treasure",
+  "base_artist": "Bruno Mars",
+  "createdAt": "2026-03-01T00:35:08.492931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Are My Treasure",
+      "artist": "Jack Greene",
+      "has_synced": false,
+      "path": "select/01_You_Are_My_Treasure_Jack_Greene.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Be on With Her (Treasure Fingers remix)",
+      "artist": "Miami Horror",
+      "has_synced": false,
+      "path": "select/02_Don't_Be_on_With_Her_(Treasure_Fingers_remix)_Miami_Horror.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Buried Treasure",
+      "artist": "The National Lights",
+      "has_synced": false,
+      "path": "select/03_Buried_Treasure_The_National_Lights.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hidden Treasure",
+      "artist": "Traffic",
+      "has_synced": false,
+      "path": "select/04_Hidden_Treasure_Traffic.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Treasure Trip",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/05_Treasure_Trip_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Treasure Box",
+      "artist": "Autumn's Grey Solace",
+      "has_synced": false,
+      "path": "select/06_Treasure_Box_Autumn's_Grey_Solace.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Get Out of My Way (Treasure Fingers remix)",
+      "artist": "Monarchy",
+      "has_synced": false,
+      "path": "select/07_Love_Get_Out_of_My_Way_(Treasure_Fingers_remix)_Monarchy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dollhouse - Treasure Fingers H.O.U.S.E Mix",
+      "artist": "Melanie Martinez feat. Treasure Fingers",
+      "has_synced": true,
+      "path": "select/08_Dollhouse_-_Treasure_Fingers_H.O.U.S.E_Mix_Melanie_Martinez_feat._Treasure_Fingers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dollhouse (Treasure Fingers Dub)",
+      "artist": "Melanie Martinez, Chocolate Puma, Treasure Fingers",
+      "has_synced": true,
+      "path": "select/09_Dollhouse_(Treasure_Fingers_Dub)_Melanie_Martinez,_Chocolate_Puma,_Treasure_Fingers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dollhouse (Treasure Fingers H.O.U.S.E Mix)",
+      "artist": "Melanie Martinez, Chocolate Puma, Treasure Fingers",
+      "has_synced": true,
+      "path": "select/10_Dollhouse_(Treasure_Fingers_H.O.U.S.E_Mix)_Melanie_Martinez,_Chocolate_Puma,_Treasure_Fingers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Treasure",
+      "artist": "LÉON",
+      "has_synced": true,
+      "path": "select/11_Treasure_LÉON.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Sunken Treasure",
+      "artist": "The Duke Spirit",
+      "has_synced": false,
+      "path": "select/12_My_Sunken_Treasure_The_Duke_Spirit.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Treasure",
+      "artist": "Chapterhouse",
+      "has_synced": true,
+      "path": "select/13_Treasure_Chapterhouse.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Treasure",
+      "artist": "Bruno Mars",
+      "has_synced": false,
+      "path": "select/pl_01_Treasure_Bruno_Mars.txt"
+    }
+  ]
+}
