@@ -1,0 +1,82 @@
+# Bruno Mars – Treasure
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Verse 1:
+Give me yo, give me yo, give me
+yo
+Attention baby
+I gotta tell you
+A lil somethin'
+About yo self
+You're wonderful, flawless
+Ooh you a sexy lady
+But you walk around here
+Like you wanna be
+Someone else
+Pre-Chorus:
+Oh ohh ohh ohh
+I know that you don't know it
+But you're fine, so fine
+Fine so fine
+Oh ohh ohh ohh
+Oh girl I'm gonna show ya
+When ya mine, oh mine
+Mine oh mine
+Chorus:
+Treasure
+That is what you are
+Honey, you're my golden star
+You know you could
+Make my wish come true
+If you let me treasure you
+If you let me treasure you oh
+ohh
+Verse 2:
+Pretty girl, pretty girl,
+pretty girl
+You should be smiling
+A girl like you
+Should never look so blue
+You're everything I see
+In my dreams
+I wouldn't say that to ya
+If it wasn't true
+Pre-Chorus:
+Oh ohh ohh ohh
+I know that you don't know it
+But you're fine, so fine
+Fine so fine
+Oh ohh ohh ohh
+Oh girl I'm gonna show ya
+When ya mine, oh mine
+Mine oh mine
+Chorus:
+Treasure
+That is what you are
+Honey, you're my golden star
+You know you could
+Make my wish come true
+If you let me treasure you
+If you let me treasure you oh
+ohh
+Bridge
+You are my treasure
+You are my treasure
+You are my treasure
+Yeah you, you, you, you are
+You are my treasure
+You are my treasure
+You are my treasure
+Yeah you, you, you, you are
+Chorus:
+Treasure
+That is what you are
+Honey, you're my golden star
+You know you could
+Make my wish come true
+If you let me treasure you
+If you let me treasure you oh
+ohh
+```
